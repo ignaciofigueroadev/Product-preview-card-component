@@ -34,6 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/FigueroaIgnacio/Product-Preview-Card-Component)
+- Live site URL: [Product preview card component](https://ignaciofigueroadev.github.io/Product-preview-card-component/)
 
 ## My process
 
