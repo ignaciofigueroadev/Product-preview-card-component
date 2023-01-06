@@ -55,4 +55,4 @@ On this project I used emmet and keyboard shortcuts in VS Code
 I want to improve the BEM methodology and my productivity with the shortcuts
 
 ## Author
-- Frontend Mentor - [@FigueroaIgnacio](https://www.frontendmentor.io/profile/FigueroaIgnacio)
+- Frontend Mentor - [@ignaciofigueroadev](https://www.frontendmentor.io/profile/ignaciofigueroadev)
